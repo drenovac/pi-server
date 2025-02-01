@@ -15,6 +15,7 @@ Links:
 [Test GPU (XFX AMD Radeon RX 460 4GB GDDR5) #564](https://github.com/geerlingguy/raspberry-pi-pcie-devices/issues/564)
 [Test GPU (AMD Radeon RX 6700 XT) #222](https://github.com/geerlingguy/raspberry-pi-pcie-devices/issues/222)
 
+```bash
 Chapters:
   00:00 Intro
   00:41 What You Need
@@ -29,3 +30,4 @@ Chapters:
   09:41 Doom 3 at 4K
   11:33 GravityMark Part 2
   11:41 Closing Thoughts
+```
