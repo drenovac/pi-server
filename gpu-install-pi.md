@@ -6,8 +6,8 @@ The Raspberry Pi Just Got a WHOLE LOT Faster!
 
 Thanks to some driver breakthroughs, I recently got a modern AMD Radeon GPU running on the Raspberry Pi. And it’s really fast!
 
-Cards:
-  Sapphire PULSE RX 580 8GB GDDR5
+Cards:  
+  Sapphire PULSE RX 580 8GB GDDR5  
   PowerColor Fighter AMD Radeon RX 6600 XT 8GB GDDR6
 
 Links:
