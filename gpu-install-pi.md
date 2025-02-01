@@ -11,11 +11,10 @@ Cards:
   PowerColor Fighter AMD Radeon RX 6600 XT 8GB GDDR6
 
 Links:
-```bash
+
 [Use an External GPU on Raspberry Pi 5 for 4K Gaming](https://www.jeffgeerling.com/blog/2024/use-external-gpu-on-raspberry-pi-5-4k-gaming)
 [Test GPU (XFX AMD Radeon RX 460 4GB GDDR5) #564](https://github.com/geerlingguy/raspberry-pi-pcie-devices/issues/564)
 [Test GPU (AMD Radeon RX 6700 XT) #222](https://github.com/geerlingguy/raspberry-pi-pcie-devices/issues/222)
-```
 
 ```bash
 Chapters:
