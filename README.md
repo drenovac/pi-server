@@ -41,3 +41,28 @@ Interested in ML/AI robots? https://indystry.cc/ml-robot/
 
 Raspberry Pi: https://amzn.to/4eDcIio  
 Depth camera: https://amzn.to/3U5fvIT
+
+## Gaming on Pi
+
+Play your favorite retro games on a Raspberry Pi 5. We walk you through how to set everything up using Batocera v40.
+
+
+What you’ll need to build one:
+
+  Raspberry Pi 5 4GB - https://www.adafruit.com/product/5812  
+  Raspberry Pi 5 Cooling Fan - https://www.adafruit.com/product/5815  
+  Raspberry Pi 5 Power Adapter - https://www.adafruit.com/product/5814  
+  Raspberry PI 5 Case with Active Cooler (don’t buy the cooling fan above if you get this) - https://amzn.to/46XQJQ0  
+  256GB Micro SD Card - https://amzn.to/4cEewFV  
+  USB Micro SD Card Reader - https://amzn.to/4czvwxa  
+  Micro HDMI to HDMI cable - https://amzn.to/3MiodPG  
+  Xbox Controller - https://amzn.to/3ALP6J7  
+  8BitDo SN30 Pro Controller - https://amzn.to/3X1UkYM  
+  USB A to USB C cable (if you buy a controller with USB C) - https://amzn.to/3AAm7Im  
+
+Links to websites used in this process:
+
+  https://batocera.org/  
+  https://www.raspberrypi.com/software/  
+  https://retroachievements.org/  
+  https://www.screenscraper.fr/  
