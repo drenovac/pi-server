@@ -3,6 +3,7 @@
 - [Radio Hacking 101: Raspberry Pi SDR with a CaribouLite](https://www.youtube.com/watch?v=Hz2WqhWmjZE)
 - [The Most POWERFUL & EXPENSIVE Raspberry Pi Ever! 🤯Pi 5 With 16GB RAM!](https://www.youtube.com/watch?v=A157lEFoovc)
 - [I Ran Advanced LLMs on the Raspberry Pi 5!](https://www.youtube.com/watch?v=Y2ldwg8xsgE)
+- [OpenAI's nightmare: Deepseek R1 on a Raspberry Pi](https://www.youtube.com/watch?v=o1sN1lB76EA) Jeff Geerling, AMD Graphics card details, and setup
 - [13 Brilliant IoT Projects!!! (2024 Edition)](https://www.youtube.com/watch?v=WINVetH4ieg)
 - [Build a Retro Gaming Console with a Raspberry Pi 5](https://www.youtube.com/watch?v=JhFpNAjtzBQ)  
 - [Raspberry Pi 5 with 2TB NVME SSD Geekworm Shield](https://www.youtube.com/watch?v=IUxP31rNRY4)
