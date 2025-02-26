@@ -11,6 +11,7 @@
 - [Raspberry Pi Uptime Monitor with Uptime Kuma](https://www.youtube.com/watch?v=9u6iDcokYYc)
 - [Ultimate Raspberry Pi 5 Desktop Server with UPS, NVMe & Stats Display](https://www.youtube.com/watch?v=u0QKmw98hvQ)
 - [AI-driven BIRD IDENTIFICATION on RASPBERRY PI (Part 2) - Using CUSTOM DATA MODEL](https://www.youtube.com/watch?v=UyW8Hfchf8A
+- [Use an External GPU on Raspberry Pi 5 for 4K Gaming](https://www.jeffgeerling.com/blog/2024/use-external-gpu-on-raspberry-pi-5-4k-gaming)
 
 # Other Vendors
 - [This mini GPU runs LLM that controls this robot](https://www.youtube.com/watch?v=0O8RHxpkcGc) - Jetson Orin Nano
