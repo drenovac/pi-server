@@ -15,7 +15,7 @@
 
 # Other Vendors
 - [This mini GPU runs LLM that controls this robot](https://www.youtube.com/watch?v=0O8RHxpkcGc) - Jetson Orin Nano
-- []()
+- [How to Install Windows 11 on Raspberry Pi 4](https://www.youtube.com/watch?v=QzmurPKkBTU)
 - []()
 
 # Arduino
