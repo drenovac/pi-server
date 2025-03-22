@@ -13,6 +13,7 @@
 - [AI-driven BIRD IDENTIFICATION on RASPBERRY PI (Part 2) - Using CUSTOM DATA MODEL](https://www.youtube.com/watch?v=UyW8Hfchf8A
 - [Use an External GPU on Raspberry Pi 5 for 4K Gaming](https://www.jeffgeerling.com/blog/2024/use-external-gpu-on-raspberry-pi-5-4k-gaming)
 - [Building a HACKER DRONE](https://www.youtube.com/shorts/cyevqT8Lm4A)
+- [Raspberry Pi 5 Docker Swarm Cluster](https://www.youtube.com/watch?v=e2D5ZIb-AfE)
 
 # Other Vendors
 - [This mini GPU runs LLM that controls this robot](https://www.youtube.com/watch?v=0O8RHxpkcGc) - Jetson Orin Nano
