@@ -14,6 +14,7 @@
 - [Use an External GPU on Raspberry Pi 5 for 4K Gaming](https://www.jeffgeerling.com/blog/2024/use-external-gpu-on-raspberry-pi-5-4k-gaming)
 - [Building a HACKER DRONE](https://www.youtube.com/shorts/cyevqT8Lm4A)
 - [Raspberry Pi 5 Docker Swarm Cluster](https://www.youtube.com/watch?v=e2D5ZIb-AfE)
+- -[how to turn Raspberry Pi into cloud storage server](https://www.youtube.com/watch?v=nIwNtej9uoE)
 
 # Other Vendors
 - [This mini GPU runs LLM that controls this robot](https://www.youtube.com/watch?v=0O8RHxpkcGc) - Jetson Orin Nano
