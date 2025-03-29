@@ -16,6 +16,7 @@
 - [Raspberry Pi 5 Docker Swarm Cluster](https://www.youtube.com/watch?v=e2D5ZIb-AfE)
 - [how to turn Raspberry Pi into cloud storage server](https://www.youtube.com/watch?v=nIwNtej9uoE)
 - [Making a 360° Controller Smaller than a Penny!](https://www.youtube.com/watch?v=eGRXOBEn9zk)
+- [Raspberry Pi 5 with 2TB NVME SSD Geekworm Shield](https://www.youtube.com/watch?v=IUxP31rNRY4)
 
 # Other Vendors
 - [This mini GPU runs LLM that controls this robot](https://www.youtube.com/watch?v=0O8RHxpkcGc) - Jetson Orin Nano
